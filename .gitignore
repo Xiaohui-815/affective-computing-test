@@ -1,0 +1,6 @@
+photos/
+.sites-runtime/
+node_modules/
+artifacts/
+*.tar.gz
+*.tar
