@@ -1,0 +1,66 @@
+[
+  {
+    "filename": "VID_20260919_200545.mp4",
+    "source": {
+      "video": "Stream #0:1[0x2](eng): Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 1920x1080, 5875 kb/s, 30.03 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)",
+      "duration": "00:02:53.33",
+      "dimensions": "1920x1080"
+    },
+    "playback": {
+      "video": "Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 7882 kb/s, 30.03 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)",
+      "duration": "00:02:53.33",
+      "dimensions": "1920x1080"
+    },
+    "audioBitstreamIdentical": true
+  },
+  {
+    "filename": "VID_20260919_205030.mp4",
+    "source": {
+      "video": "Stream #0:1[0x2](eng): Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 1920x1080, 6806 kb/s, 30.03 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)",
+      "duration": "00:03:49.31",
+      "dimensions": "1920x1080"
+    },
+    "playback": {
+      "video": "Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 9721 kb/s, 30.03 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)",
+      "duration": "00:03:49.31",
+      "dimensions": "1920x1080"
+    },
+    "audioBitstreamIdentical": true
+  },
+  {
+    "filename": "VID_20260919_212324.mp4",
+    "source": {
+      "video": "Stream #0:1[0x2](eng): Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 1920x1080, 6979 kb/s, 29.85 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)",
+      "duration": "00:03:22.28",
+      "dimensions": "1920x1080"
+    },
+    "playback": {
+      "video": "Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 7100 kb/s, 29.85 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)",
+      "duration": "00:03:22.27",
+      "dimensions": "1920x1080"
+    },
+    "audioBitstreamIdentical": true
+  },
+  {
+    "filename": "VID_20260919_214449.mp4",
+    "source": {
+      "video": "Stream #0:1[0x2](eng): Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv, bt2020nc/bt2020/arib-std-b67), 1920x1080, 8060 kb/s, 30.01 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:0[0x1](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 255 kb/s (default)",
+      "duration": "00:00:30.46",
+      "dimensions": "1920x1080"
+    },
+    "playback": {
+      "video": "Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080, 10703 kb/s, 30.01 fps, 30 tbr, 90k tbn (default)",
+      "audio": "Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)",
+      "duration": "00:00:30.46",
+      "dimensions": "1920x1080"
+    },
+    "audioBitstreamIdentical": true
+  }
+]

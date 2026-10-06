@@ -1,0 +1,37 @@
+{
+  "passed": [
+    "reload restores same session and order",
+    "video play/pause/seek/volume/rate and paused recovery",
+    "full session, sequential events and three downloadable exports",
+    "browser Service Worker byte range crosses chunk boundaries",
+    {
+      "id": "video-VID_20260919_200545",
+      "duration": 173.332811,
+      "width": 1920,
+      "height": 1080,
+      "position": 86.666405
+    },
+    {
+      "id": "video-VID_20260919_205030",
+      "duration": 229.312211,
+      "width": 1920,
+      "height": 1080,
+      "position": 114.656105
+    },
+    {
+      "id": "video-VID_20260919_212324",
+      "duration": 202.274656,
+      "width": 1920,
+      "height": 1080,
+      "position": 101.137328
+    },
+    {
+      "id": "video-VID_20260919_214449",
+      "duration": 30.459189,
+      "width": 1920,
+      "height": 1080,
+      "position": 15.229594
+    },
+    "mobile viewport without horizontal overflow"
+  ]
+}

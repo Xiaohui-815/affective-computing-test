@@ -1,0 +1,11 @@
+{
+  "objects": 174,
+  "failures": [],
+  "range": {
+    "status": 206,
+    "length": 20,
+    "contentRange": "bytes 10-29/4194304"
+  },
+  "uploadPage": 404,
+  "uploadWrite": 404
+}

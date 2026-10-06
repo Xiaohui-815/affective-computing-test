@@ -1,0 +1,15 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><title>素材初始化</title><style>body{font:16px system-ui;max-width:700px;margin:60px auto;line-height:1.8}label,input,button{display:block;margin:15px 0}input,button{font:inherit;padding:10px}#status{white-space:pre-wrap}</style><h1>素材初始化</h1><p>仅上传实验素材。需要临时管理员密钥；完成后此页面会被删除。</p><label>临时上传密钥<input id="key" type="password" autocomplete="off"></label><label>选择本项目 dist/media 文件夹<input id="files" type="file" webkitdirectory multiple></label><button id="upload">上传素材</button><pre id="status" role="status">请选择素材文件夹。</pre><script>
+document.querySelector('#upload').onclick=async()=>{
+ const key=document.querySelector('#key').value;const files=Array.from(document.querySelector('#files').files);const status=document.querySelector('#status');
+ if(!key||!files.length){status.textContent='缺少密钥或素材。';return;}
+ document.querySelector('#upload').disabled=true;let cursor=0,complete=0;const failed=[];
+ async function run(){while(cursor<files.length){const file=files[cursor++];const relative=file.webkitRelativePath;let done=false;
+  for(let attempt=0;attempt<3&&!done;attempt++)try{
+   const response=await fetch('/__media_upload/'+relative,{method:'PUT',headers:{Authorization:'Bearer '+key},body:file,signal:AbortSignal.timeout(60000)});
+   if(!response.ok)throw new Error('HTTP '+response.status);done=true;complete++;status.textContent='已上传 '+complete+' / '+files.length;
+  }catch(error){if(attempt===2){failed.push({file:relative,error:error.message});status.textContent='失败：'+relative+' '+error.message;}else await new Promise(r=>setTimeout(r,1000*(attempt+1)));}
+ }}
+ await Promise.all(Array.from({length:4},run));document.querySelector('#key').value='';
+ status.textContent=JSON.stringify({total:files.length,completed:complete,failures:failed});status.dataset.complete=String(failed.length===0);document.querySelector('#upload').disabled=false;
+};
+</script></html>

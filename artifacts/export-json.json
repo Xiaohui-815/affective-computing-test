@@ -1,0 +1,943 @@
+{
+  "schemaVersion": "1.0.0",
+  "sessionId": "9b1bc9c9-2770-4ee5-93e4-9a586a33bb7e",
+  "participantId": "测试 P001",
+  "startedAt": "2026-10-06T01:49:14.523Z",
+  "endedAt": "2026-10-06T01:49:26.207Z",
+  "status": "completed",
+  "index": 4,
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/117.0.2045.47 Safari/537.36 HeadlessEdg/117.0.2045.47",
+    "language": "zh-CN",
+    "timezone": "Asia/Shanghai",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "screen": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "trials": [
+    {
+      "id": "image-IMG_20260919_214555",
+      "type": "image",
+      "filename": "IMG_20260919_214555.jpg",
+      "url": "media/IMG_20260919_214555.jpg",
+      "size": 916009,
+      "sha256": "f4f511bc9bcf16f88369db964e3d0d3260e74cb9ec2fe92176693a4da3a2d31c",
+      "sourceSha256": "f4f511bc9bcf16f88369db964e3d0d3260e74cb9ec2fe92176693a4da3a2d31c",
+      "playbackVersion": "original",
+      "totalMs": 2489.4000000059605,
+      "visibleMs": 1486.6000000089407,
+      "playingMs": 0,
+      "loadMs": 1002.7999999970198,
+      "bufferingMs": 0,
+      "position": 0,
+      "ended": false,
+      "status": "viewed",
+      "firstShownAt": "2026-10-06T01:49:15.540Z"
+    },
+    {
+      "id": "image-IMG_20260919_214556",
+      "type": "image",
+      "filename": "IMG_20260919_214556.jpg",
+      "url": "media/IMG_20260919_214556.jpg",
+      "size": 738980,
+      "sha256": "4f7b8779bd14987ca80c46567da1a1e0379c75fbf9e8cfa4dd9e0b4eed53e559",
+      "sourceSha256": "4f7b8779bd14987ca80c46567da1a1e0379c75fbf9e8cfa4dd9e0b4eed53e559",
+      "playbackVersion": "original",
+      "totalMs": 498.79999999701977,
+      "visibleMs": 497.5,
+      "playingMs": 0,
+      "loadMs": 1.2999999970197678,
+      "bufferingMs": 0,
+      "position": 0,
+      "ended": false,
+      "status": "viewed",
+      "firstShownAt": "2026-10-06T01:49:17.573Z"
+    },
+    {
+      "id": "image-IMG_20260919_200116",
+      "type": "image",
+      "filename": "IMG_20260919_200116.jpg",
+      "url": "media/IMG_20260919_200116.jpg",
+      "size": 3587000,
+      "sha256": "e47caf4fd883f20eb3655e4d281a7a5b97308cdac4678b4e434be9ecdc60ed75",
+      "sourceSha256": "e47caf4fd883f20eb3655e4d281a7a5b97308cdac4678b4e434be9ecdc60ed75",
+      "playbackVersion": "original",
+      "totalMs": 883.4000000059605,
+      "visibleMs": 500.6000000089407,
+      "playingMs": 0,
+      "loadMs": 382.79999999701977,
+      "bufferingMs": 0,
+      "position": 0,
+      "ended": false,
+      "status": "viewed",
+      "firstShownAt": "2026-10-06T01:49:18.454Z"
+    },
+    {
+      "id": "video-VID_20260919_205030",
+      "type": "video",
+      "filename": "VID_20260919_205030.mp4",
+      "url": "stream/video-VID_20260919_205030-0ef6c299c0e9.mp4",
+      "size": 286215974,
+      "sha256": "0ef6c299c0e9d3144e069f1ea1edf330a263300351b708c155359a8502d089a0",
+      "sourceSha256": "77259550de048e43bdc3955e5c9f5d55c3da92e6e554a0fb8227684c8fe536e0",
+      "playbackVersion": "h264-crf18-sdr-bt709-v1",
+      "processing": "HEVC Main10 HLG BT.2020 to H.264 CRF18 SDR BT.709; Mobius tone mapping; original dimensions and timestamps; AAC stream copy",
+      "chunkSize": 4194304,
+      "chunks": [
+        "media/video-VID_20260919_205030/000.bin",
+        "media/video-VID_20260919_205030/001.bin",
+        "media/video-VID_20260919_205030/002.bin",
+        "media/video-VID_20260919_205030/003.bin",
+        "media/video-VID_20260919_205030/004.bin",
+        "media/video-VID_20260919_205030/005.bin",
+        "media/video-VID_20260919_205030/006.bin",
+        "media/video-VID_20260919_205030/007.bin",
+        "media/video-VID_20260919_205030/008.bin",
+        "media/video-VID_20260919_205030/009.bin",
+        "media/video-VID_20260919_205030/010.bin",
+        "media/video-VID_20260919_205030/011.bin",
+        "media/video-VID_20260919_205030/012.bin",
+        "media/video-VID_20260919_205030/013.bin",
+        "media/video-VID_20260919_205030/014.bin",
+        "media/video-VID_20260919_205030/015.bin",
+        "media/video-VID_20260919_205030/016.bin",
+        "media/video-VID_20260919_205030/017.bin",
+        "media/video-VID_20260919_205030/018.bin",
+        "media/video-VID_20260919_205030/019.bin",
+        "media/video-VID_20260919_205030/020.bin",
+        "media/video-VID_20260919_205030/021.bin",
+        "media/video-VID_20260919_205030/022.bin",
+        "media/video-VID_20260919_205030/023.bin",
+        "media/video-VID_20260919_205030/024.bin",
+        "media/video-VID_20260919_205030/025.bin",
+        "media/video-VID_20260919_205030/026.bin",
+        "media/video-VID_20260919_205030/027.bin",
+        "media/video-VID_20260919_205030/028.bin",
+        "media/video-VID_20260919_205030/029.bin",
+        "media/video-VID_20260919_205030/030.bin",
+        "media/video-VID_20260919_205030/031.bin",
+        "media/video-VID_20260919_205030/032.bin",
+        "media/video-VID_20260919_205030/033.bin",
+        "media/video-VID_20260919_205030/034.bin",
+        "media/video-VID_20260919_205030/035.bin",
+        "media/video-VID_20260919_205030/036.bin",
+        "media/video-VID_20260919_205030/037.bin",
+        "media/video-VID_20260919_205030/038.bin",
+        "media/video-VID_20260919_205030/039.bin",
+        "media/video-VID_20260919_205030/040.bin",
+        "media/video-VID_20260919_205030/041.bin",
+        "media/video-VID_20260919_205030/042.bin",
+        "media/video-VID_20260919_205030/043.bin",
+        "media/video-VID_20260919_205030/044.bin",
+        "media/video-VID_20260919_205030/045.bin",
+        "media/video-VID_20260919_205030/046.bin",
+        "media/video-VID_20260919_205030/047.bin",
+        "media/video-VID_20260919_205030/048.bin",
+        "media/video-VID_20260919_205030/049.bin",
+        "media/video-VID_20260919_205030/050.bin",
+        "media/video-VID_20260919_205030/051.bin",
+        "media/video-VID_20260919_205030/052.bin",
+        "media/video-VID_20260919_205030/053.bin",
+        "media/video-VID_20260919_205030/054.bin",
+        "media/video-VID_20260919_205030/055.bin",
+        "media/video-VID_20260919_205030/056.bin",
+        "media/video-VID_20260919_205030/057.bin",
+        "media/video-VID_20260919_205030/058.bin",
+        "media/video-VID_20260919_205030/059.bin",
+        "media/video-VID_20260919_205030/060.bin",
+        "media/video-VID_20260919_205030/061.bin",
+        "media/video-VID_20260919_205030/062.bin",
+        "media/video-VID_20260919_205030/063.bin",
+        "media/video-VID_20260919_205030/064.bin",
+        "media/video-VID_20260919_205030/065.bin",
+        "media/video-VID_20260919_205030/066.bin",
+        "media/video-VID_20260919_205030/067.bin",
+        "media/video-VID_20260919_205030/068.bin"
+      ],
+      "totalMs": 5507.70000000298,
+      "visibleMs": 3514.800000011921,
+      "playingMs": 2223.2999999970198,
+      "loadMs": 1992.8999999910593,
+      "bufferingMs": 0,
+      "position": 5,
+      "ended": false,
+      "status": "viewed",
+      "firstShownAt": "2026-10-06T01:49:20.514Z",
+      "duration": 229.312211
+    },
+    {
+      "id": "video-VID_20260919_212324",
+      "type": "video",
+      "filename": "VID_20260919_212324.mp4",
+      "url": "stream/video-VID_20260919_212324-393d69018135.mp4",
+      "size": 186277647,
+      "sha256": "393d69018135ddefee9f9863f251df8a7c8df9770aad2b2abd351adeafdbe449",
+      "sourceSha256": "e3cf3046564c4c448e299742157c9430dea2a83138f2e0fc06bdf41bcb08026a",
+      "playbackVersion": "h264-crf18-sdr-bt709-v1",
+      "processing": "HEVC Main10 HLG BT.2020 to H.264 CRF18 SDR BT.709; Mobius tone mapping; original dimensions and timestamps; AAC stream copy",
+      "chunkSize": 4194304,
+      "chunks": [
+        "media/video-VID_20260919_212324/000.bin",
+        "media/video-VID_20260919_212324/001.bin",
+        "media/video-VID_20260919_212324/002.bin",
+        "media/video-VID_20260919_212324/003.bin",
+        "media/video-VID_20260919_212324/004.bin",
+        "media/video-VID_20260919_212324/005.bin",
+        "media/video-VID_20260919_212324/006.bin",
+        "media/video-VID_20260919_212324/007.bin",
+        "media/video-VID_20260919_212324/008.bin",
+        "media/video-VID_20260919_212324/009.bin",
+        "media/video-VID_20260919_212324/010.bin",
+        "media/video-VID_20260919_212324/011.bin",
+        "media/video-VID_20260919_212324/012.bin",
+        "media/video-VID_20260919_212324/013.bin",
+        "media/video-VID_20260919_212324/014.bin",
+        "media/video-VID_20260919_212324/015.bin",
+        "media/video-VID_20260919_212324/016.bin",
+        "media/video-VID_20260919_212324/017.bin",
+        "media/video-VID_20260919_212324/018.bin",
+        "media/video-VID_20260919_212324/019.bin",
+        "media/video-VID_20260919_212324/020.bin",
+        "media/video-VID_20260919_212324/021.bin",
+        "media/video-VID_20260919_212324/022.bin",
+        "media/video-VID_20260919_212324/023.bin",
+        "media/video-VID_20260919_212324/024.bin",
+        "media/video-VID_20260919_212324/025.bin",
+        "media/video-VID_20260919_212324/026.bin",
+        "media/video-VID_20260919_212324/027.bin",
+        "media/video-VID_20260919_212324/028.bin",
+        "media/video-VID_20260919_212324/029.bin",
+        "media/video-VID_20260919_212324/030.bin",
+        "media/video-VID_20260919_212324/031.bin",
+        "media/video-VID_20260919_212324/032.bin",
+        "media/video-VID_20260919_212324/033.bin",
+        "media/video-VID_20260919_212324/034.bin",
+        "media/video-VID_20260919_212324/035.bin",
+        "media/video-VID_20260919_212324/036.bin",
+        "media/video-VID_20260919_212324/037.bin",
+        "media/video-VID_20260919_212324/038.bin",
+        "media/video-VID_20260919_212324/039.bin",
+        "media/video-VID_20260919_212324/040.bin",
+        "media/video-VID_20260919_212324/041.bin",
+        "media/video-VID_20260919_212324/042.bin",
+        "media/video-VID_20260919_212324/043.bin",
+        "media/video-VID_20260919_212324/044.bin"
+      ],
+      "totalMs": 1235.199999988079,
+      "visibleMs": 444.8999999910593,
+      "playingMs": 0,
+      "loadMs": 790.2999999970198,
+      "bufferingMs": 0,
+      "position": 0,
+      "ended": false,
+      "status": "viewed",
+      "firstShownAt": "2026-10-06T01:49:25.762Z",
+      "duration": 202.274656
+    }
+  ],
+  "events": [
+    {
+      "sequence": 1,
+      "timestamp": "2026-10-06T01:49:14.539Z",
+      "elapsedMs": 0,
+      "trialIndex": null,
+      "stimulusId": null,
+      "type": "session_start",
+      "details": {
+        "selectedOrder": [
+          "image-IMG_20260919_214555",
+          "image-IMG_20260919_214556",
+          "image-IMG_20260919_200116",
+          "video-VID_20260919_205030",
+          "video-VID_20260919_212324"
+        ]
+      }
+    },
+    {
+      "sequence": 2,
+      "timestamp": "2026-10-06T01:49:14.539Z",
+      "elapsedMs": 1,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": false,
+        "url": "media/IMG_20260919_214555.jpg"
+      }
+    },
+    {
+      "sequence": 3,
+      "timestamp": "2026-10-06T01:49:15.540Z",
+      "elapsedMs": 1001,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 4,
+      "timestamp": "2026-10-06T01:49:16.528Z",
+      "elapsedMs": 1989,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "page_hide",
+      "details": {
+        "active": true
+      }
+    },
+    {
+      "sequence": 5,
+      "timestamp": "2026-10-06T01:49:16.985Z",
+      "elapsedMs": 2446,
+      "trialIndex": null,
+      "stimulusId": null,
+      "type": "session_recovered",
+      "details": {
+        "lastCheckpointAt": "2026-10-06T01:49:16.528Z",
+        "unobservedGapMs": 457
+      }
+    },
+    {
+      "sequence": 6,
+      "timestamp": "2026-10-06T01:49:17.071Z",
+      "elapsedMs": 2533,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "session_resume",
+      "details": {
+        "position": 0
+      }
+    },
+    {
+      "sequence": 7,
+      "timestamp": "2026-10-06T01:49:17.072Z",
+      "elapsedMs": 2533,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": true,
+        "url": "media/IMG_20260919_214555.jpg"
+      }
+    },
+    {
+      "sequence": 8,
+      "timestamp": "2026-10-06T01:49:17.073Z",
+      "elapsedMs": 2535,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 9,
+      "timestamp": "2026-10-06T01:49:17.571Z",
+      "elapsedMs": 3033,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "click",
+      "details": {
+        "target": "next",
+        "x": 1191,
+        "y": 853
+      }
+    },
+    {
+      "sequence": 10,
+      "timestamp": "2026-10-06T01:49:17.572Z",
+      "elapsedMs": 3033,
+      "trialIndex": 1,
+      "stimulusId": "image-IMG_20260919_214555",
+      "type": "stimulus_leave",
+      "details": {
+        "reason": "next",
+        "position": 0
+      }
+    },
+    {
+      "sequence": 11,
+      "timestamp": "2026-10-06T01:49:17.572Z",
+      "elapsedMs": 3033,
+      "trialIndex": 2,
+      "stimulusId": "image-IMG_20260919_214556",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": false,
+        "url": "media/IMG_20260919_214556.jpg"
+      }
+    },
+    {
+      "sequence": 12,
+      "timestamp": "2026-10-06T01:49:17.573Z",
+      "elapsedMs": 3034,
+      "trialIndex": 2,
+      "stimulusId": "image-IMG_20260919_214556",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 13,
+      "timestamp": "2026-10-06T01:49:18.070Z",
+      "elapsedMs": 3532,
+      "trialIndex": 2,
+      "stimulusId": "image-IMG_20260919_214556",
+      "type": "click",
+      "details": {
+        "target": "next",
+        "x": 1191,
+        "y": 853
+      }
+    },
+    {
+      "sequence": 14,
+      "timestamp": "2026-10-06T01:49:18.071Z",
+      "elapsedMs": 3532,
+      "trialIndex": 2,
+      "stimulusId": "image-IMG_20260919_214556",
+      "type": "stimulus_leave",
+      "details": {
+        "reason": "next",
+        "position": 0
+      }
+    },
+    {
+      "sequence": 15,
+      "timestamp": "2026-10-06T01:49:18.071Z",
+      "elapsedMs": 3532,
+      "trialIndex": 3,
+      "stimulusId": "image-IMG_20260919_200116",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": false,
+        "url": "media/IMG_20260919_200116.jpg"
+      }
+    },
+    {
+      "sequence": 16,
+      "timestamp": "2026-10-06T01:49:18.454Z",
+      "elapsedMs": 3915,
+      "trialIndex": 3,
+      "stimulusId": "image-IMG_20260919_200116",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    {
+      "sequence": 17,
+      "timestamp": "2026-10-06T01:49:18.954Z",
+      "elapsedMs": 4415,
+      "trialIndex": 3,
+      "stimulusId": "image-IMG_20260919_200116",
+      "type": "click",
+      "details": {
+        "target": "next",
+        "x": 1191,
+        "y": 853
+      }
+    },
+    {
+      "sequence": 18,
+      "timestamp": "2026-10-06T01:49:18.954Z",
+      "elapsedMs": 4415,
+      "trialIndex": 3,
+      "stimulusId": "image-IMG_20260919_200116",
+      "type": "stimulus_leave",
+      "details": {
+        "reason": "next",
+        "position": 0
+      }
+    },
+    {
+      "sequence": 19,
+      "timestamp": "2026-10-06T01:49:18.954Z",
+      "elapsedMs": 4416,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": false,
+        "url": "stream/video-VID_20260919_205030-0ef6c299c0e9.mp4"
+      }
+    },
+    {
+      "sequence": 20,
+      "timestamp": "2026-10-06T01:49:20.394Z",
+      "elapsedMs": 5855,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_metadata",
+      "details": {
+        "duration": 229.312211,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 21,
+      "timestamp": "2026-10-06T01:49:20.515Z",
+      "elapsedMs": 5976,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 22,
+      "timestamp": "2026-10-06T01:49:20.515Z",
+      "elapsedMs": 5976,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_canplay",
+      "details": {
+        "position": 0,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 23,
+      "timestamp": "2026-10-06T01:49:20.535Z",
+      "elapsedMs": 5996,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "viewport_resize",
+      "details": {
+        "width": 1440,
+        "height": 1000
+      }
+    },
+    {
+      "sequence": 24,
+      "timestamp": "2026-10-06T01:49:20.779Z",
+      "elapsedMs": 6241,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_play",
+      "details": {
+        "position": 0,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 25,
+      "timestamp": "2026-10-06T01:49:20.780Z",
+      "elapsedMs": 6241,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_playing",
+      "details": {
+        "position": 0,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 26,
+      "timestamp": "2026-10-06T01:49:20.852Z",
+      "elapsedMs": 6314,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_progress",
+      "details": {
+        "position": 0.015456,
+        "paused": false,
+        "seeking": false,
+        "readyState": 4
+      }
+    },
+    {
+      "sequence": 27,
+      "timestamp": "2026-10-06T01:49:21.852Z",
+      "elapsedMs": 7313,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_progress",
+      "details": {
+        "position": 1.014832,
+        "paused": false,
+        "seeking": false,
+        "readyState": 4
+      }
+    },
+    {
+      "sequence": 28,
+      "timestamp": "2026-10-06T01:49:22.859Z",
+      "elapsedMs": 8321,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_progress",
+      "details": {
+        "position": 2.022579,
+        "paused": false,
+        "seeking": false,
+        "readyState": 4
+      }
+    },
+    {
+      "sequence": 29,
+      "timestamp": "2026-10-06T01:49:23.003Z",
+      "elapsedMs": 8464,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_pause",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 30,
+      "timestamp": "2026-10-06T01:49:23.003Z",
+      "elapsedMs": 8465,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_seeking",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 31,
+      "timestamp": "2026-10-06T01:49:23.003Z",
+      "elapsedMs": 8465,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_volumechange",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 32,
+      "timestamp": "2026-10-06T01:49:23.004Z",
+      "elapsedMs": 8465,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_ratechange",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 33,
+      "timestamp": "2026-10-06T01:49:23.387Z",
+      "elapsedMs": 8848,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_seeked",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 34,
+      "timestamp": "2026-10-06T01:49:23.388Z",
+      "elapsedMs": 8850,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_canplay",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 0.5,
+        "muted": false,
+        "playbackRate": 1.25
+      }
+    },
+    {
+      "sequence": 35,
+      "timestamp": "2026-10-06T01:49:23.946Z",
+      "elapsedMs": 9407,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "page_hide",
+      "details": {
+        "active": true
+      }
+    },
+    {
+      "sequence": 36,
+      "timestamp": "2026-10-06T01:49:24.384Z",
+      "elapsedMs": 9846,
+      "trialIndex": null,
+      "stimulusId": null,
+      "type": "session_recovered",
+      "details": {
+        "lastCheckpointAt": "2026-10-06T01:49:23.946Z",
+        "unobservedGapMs": 438
+      }
+    },
+    {
+      "sequence": 37,
+      "timestamp": "2026-10-06T01:49:24.454Z",
+      "elapsedMs": 9917,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "session_resume",
+      "details": {
+        "position": 5
+      }
+    },
+    {
+      "sequence": 38,
+      "timestamp": "2026-10-06T01:49:24.455Z",
+      "elapsedMs": 9917,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": true,
+        "url": "stream/video-VID_20260919_205030-0ef6c299c0e9.mp4"
+      }
+    },
+    {
+      "sequence": 39,
+      "timestamp": "2026-10-06T01:49:24.476Z",
+      "elapsedMs": 9938,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_metadata",
+      "details": {
+        "duration": 229.312211,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 40,
+      "timestamp": "2026-10-06T01:49:24.477Z",
+      "elapsedMs": 9939,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_seeking",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 41,
+      "timestamp": "2026-10-06T01:49:24.887Z",
+      "elapsedMs": 10349,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_seeked",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 42,
+      "timestamp": "2026-10-06T01:49:24.888Z",
+      "elapsedMs": 10350,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 43,
+      "timestamp": "2026-10-06T01:49:24.888Z",
+      "elapsedMs": 10350,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "video_canplay",
+      "details": {
+        "position": 5,
+        "duration": 229.312211,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 44,
+      "timestamp": "2026-10-06T01:49:24.970Z",
+      "elapsedMs": 10433,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "click",
+      "details": {
+        "target": "next",
+        "x": 1191,
+        "y": 853
+      }
+    },
+    {
+      "sequence": 45,
+      "timestamp": "2026-10-06T01:49:24.971Z",
+      "elapsedMs": 10433,
+      "trialIndex": 4,
+      "stimulusId": "video-VID_20260919_205030",
+      "type": "stimulus_leave",
+      "details": {
+        "reason": "next",
+        "position": 5
+      }
+    },
+    {
+      "sequence": 46,
+      "timestamp": "2026-10-06T01:49:24.972Z",
+      "elapsedMs": 10434,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "stimulus_load_start",
+      "details": {
+        "restored": false,
+        "url": "stream/video-VID_20260919_212324-393d69018135.mp4"
+      }
+    },
+    {
+      "sequence": 47,
+      "timestamp": "2026-10-06T01:49:25.707Z",
+      "elapsedMs": 11169,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "video_metadata",
+      "details": {
+        "duration": 202.274656,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 48,
+      "timestamp": "2026-10-06T01:49:25.762Z",
+      "elapsedMs": 11224,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "stimulus_shown",
+      "details": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "sequence": 49,
+      "timestamp": "2026-10-06T01:49:25.762Z",
+      "elapsedMs": 11224,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "video_canplay",
+      "details": {
+        "position": 0,
+        "duration": 202.274656,
+        "volume": 1,
+        "muted": false,
+        "playbackRate": 1
+      }
+    },
+    {
+      "sequence": 50,
+      "timestamp": "2026-10-06T01:49:26.206Z",
+      "elapsedMs": 11668,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "click",
+      "details": {
+        "target": "next",
+        "x": 1183,
+        "y": 853
+      }
+    },
+    {
+      "sequence": 51,
+      "timestamp": "2026-10-06T01:49:26.206Z",
+      "elapsedMs": 11669,
+      "trialIndex": 5,
+      "stimulusId": "video-VID_20260919_212324",
+      "type": "stimulus_leave",
+      "details": {
+        "reason": "next",
+        "position": 0
+      }
+    },
+    {
+      "sequence": 52,
+      "timestamp": "2026-10-06T01:49:26.207Z",
+      "elapsedMs": 11669,
+      "trialIndex": null,
+      "stimulusId": null,
+      "type": "session_end",
+      "details": {
+        "status": "completed"
+      }
+    },
+    {
+      "sequence": 53,
+      "timestamp": "2026-10-06T01:49:26.271Z",
+      "elapsedMs": 11733,
+      "trialIndex": null,
+      "stimulusId": null,
+      "type": "download_requested",
+      "details": {
+        "format": "json"
+      }
+    }
+  ],
+  "clock": "performance.now within page; wall-clock gap included on recovery",
+  "checkpointElapsedMs": 11733,
+  "checkpointAt": "2026-10-06T01:49:26.271Z",
+  "exportedAt": "2026-10-06T01:49:26.271Z",
+  "storageWarning": false,
+  "notes": {
+    "timing": "Durations are browser-observable estimates, not attention measures. Closed-page gaps are excluded from stimulus durations. Playing time is wall-clock time, not unique content coverage.",
+    "nativeControls": "Native video controls may not expose clicks or key events; semantic media events are recorded.",
+    "completion": "completed means all five trials were advanced through; videos may be skipped or partially viewed."
+  }
+}
